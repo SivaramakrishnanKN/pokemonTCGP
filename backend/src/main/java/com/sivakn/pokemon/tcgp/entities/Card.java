@@ -2,6 +2,7 @@ package com.sivakn.pokemon.tcgp.entities;
 
 import java.util.List;
 
+import com.sivakn.pokemon.tcgp.entities.constants.Type;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

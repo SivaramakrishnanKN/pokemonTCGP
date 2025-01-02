@@ -21,10 +21,6 @@ public class Deck {
     @OneToMany
     private List<Card> cards;
 
-    public List<Card> getCards() {
-        return cards;
-    }
-
     public void addCard(Card card) {
         cards.add(card);
     }

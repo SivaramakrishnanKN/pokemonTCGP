@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import com.sivakn.pokemon.tcgp.engine.CardManager;
 import com.sivakn.pokemon.tcgp.entities.Card;
-import com.sivakn.pokemon.tcgp.entities.Type;
+import com.sivakn.pokemon.tcgp.entities.constants.Type;
 import com.sivakn.pokemon.tcgp.repository.CardRepository;
 
 public class TestDeckBuilder {

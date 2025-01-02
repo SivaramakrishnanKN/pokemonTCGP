@@ -1,4 +1,4 @@
-package com.sivakn.pokemon.tcgp.entities;
+package com.sivakn.pokemon.tcgp.entities.constants;
 
 public enum Type {
     FIRE,
