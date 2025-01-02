@@ -25,7 +25,7 @@ public class TestDeckBuilder {
     }
 
     private Card createCharizardCard() {
-        return new Card.Builder()
+        return Card.builder()
                 .name("Charizard")
                 .hp(180)
                 .basic(false)
